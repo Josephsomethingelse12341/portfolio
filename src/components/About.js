@@ -1,7 +1,9 @@
 export const About = () => {
     return (
-        <div>
+        <div class="bg-blue-200 h-screen ">
         <h1>About</h1>
+
+        
         </div>
     )
 }
