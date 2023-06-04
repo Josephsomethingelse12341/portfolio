@@ -5,7 +5,7 @@ import projImg3 from '../assets/img/empcrud.png'
 export const Projects = () => {
     return (
         <div class="bg-blue-200 min-h-screen py-5">
-        <h1 class="text-5xl flex justify-center">Main Project</h1>
+        <h1 class="text-5xl flex justify-center text-gray-700">Main Project</h1>
         <div class="mt-8 my-2 grid grid-cols-1 mx-40">
             <div class="bg-white rounded overflow-hidden shadow-lg m-4 mx-80">
                     <img src={projImg1} alt="Project 1" class="w-full h-32 sm:h-48"/>
@@ -16,7 +16,7 @@ export const Projects = () => {
                     </div>
             </div> 
         </div>
-        <h1 class="text-5xl flex justify-center">Other Projects</h1>
+        <h1 class="text-5xl flex justify-center text-gray-700">Other Projects</h1>
         <div class=" mt-8 my-2 grid grid-cols-2 mx-40 ">
             <div class="bg-white rounded overflow-hidden shadow-lg m-4 mx-20">
                 <img src={projImg2} alt="Project 2" class="w-full h-32 sm:h-48"/>
