@@ -38,7 +38,7 @@ export const NavBar = () => {
       <Navbar expand="md" className={scrolled ? "scrolled" : ""} > 
         <Container class="">
           <Navbar.Collapse id="basic-navbar-nav">
-            <nav class="bg-gradient-to-b from-blue-400 from-75% to-blue-200  w-full ">
+            <nav class="bg-gradient-to-b bg-blue-400  w-full ">
               <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
                 <div class="hidden w-full md:block md:w-auto" id="navbar-default">
                   <Nav class="font-medium text-lg flex flex-col p-6 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-white dark:bg-blue-300 md:dark:bg-blue-400 dark:border-blue-200">
