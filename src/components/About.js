@@ -1,4 +1,4 @@
-import profPic from '../assets/img/header-img.png'
+import profPic from '../assets/img/20220108_154817-modified.png'
 import navIcon1 from '../assets/img/nav-icon1.svg'
 import navIcon2 from '../assets/img/nav-icon2.svg'
 
